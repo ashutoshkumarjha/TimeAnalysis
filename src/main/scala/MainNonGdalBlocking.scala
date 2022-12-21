@@ -6,7 +6,7 @@ import scala.util.{Failure, Success}
 import scala.concurrent.ExecutionContext.Implicits.global
 object MainNonGdalBlocking extends App {
 
-  val fileName = "./src/main/resources/hex62p5.geojson"
+  val fileName = "data/hex62p5.geojson"
 
   // Register all of the OGR drivers that are part of your GDAL installation.
   ogr.RegisterAll()

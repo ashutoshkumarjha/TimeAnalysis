@@ -1,9 +1,9 @@
-package in.gov.iirs.gid.akjha
+
 import org.gdal.ogr._
 
 object MainGdalBlocking extends App {
 
-  val fileName = "./src/main/resources/Canada3573.gpkg"
+  val fileName = "data/Canada3573.gpkg"
 
   // Register all of the OGR drivers that are part of your GDAL installation.
   ogr.RegisterAll()
