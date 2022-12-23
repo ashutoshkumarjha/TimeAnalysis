@@ -5,5 +5,5 @@
 /target/scala-2.13/classes/
 /data/*.TIF
 **/**/.DS_Store
-/.idea/**
-/.bsp/**
+/.idea/
+/.bsp/
