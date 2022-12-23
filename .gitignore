@@ -6,3 +6,4 @@
 /data/*.TIF
 **/**/.DS_Store
 /.idea
+/.bsp
