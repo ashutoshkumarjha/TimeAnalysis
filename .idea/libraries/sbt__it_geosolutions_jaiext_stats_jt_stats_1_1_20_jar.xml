@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: it.geosolutions.jaiext.stats:jt-stats:1.1.20:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo.osgeo.org/repository/release/it/geosolutions/jaiext/stats/jt-stats/1.1.20/jt-stats-1.1.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo.osgeo.org/repository/release/it/geosolutions/jaiext/stats/jt-stats/1.1.20/jt-stats-1.1.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
